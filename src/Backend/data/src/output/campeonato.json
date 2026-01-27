@@ -1,0 +1,34 @@
+{
+    "config": {
+      "pontos_vitoria": 3,
+      "pontos_empate": 1,
+      "pontos_derrota": 0
+    },
+    "times": [
+      {
+        "nome": "Time A",
+        "vitorias": 2,
+        "empates": 1,
+        "derrotas": 0,
+        "gols_pro": 6,
+        "gols_contra": 2
+      },
+      {
+        "nome": "Time B",
+        "vitorias": 1,
+        "empates": 1,
+        "derrotas": 1,
+        "gols_pro": 3,
+        "gols_contra": 3
+      },
+      {
+        "nome": "Time C",
+        "vitorias": 0,
+        "empates": 2,
+        "derrotas": 1,
+        "gols_pro": 2,
+        "gols_contra": 4
+      }
+    ]
+  }
+  
